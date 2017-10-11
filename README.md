@@ -353,7 +353,7 @@ Markticle | Marque o progresso da sua leitura de artigos para continuar mais tar
 
 Nome | Descrição | Website
 ------------ | ------- | ------------
-Nomadlist | As melhores cidades para viver e trabalhar remotamente | http://nomadli.st/
+Nomadlist | As melhores cidades para viver e trabalhar remotamente | https://nomadlist.com/
 Where Nomads at | Encontre nômades digitais e viajantes do mundo inteiro | http://where-my-nomads.at/
 Nomad Jobs | Os melhores trabalhos à distância nas melhores startups | http://nomadjobs.com/
 What’s It Like | Ajudando os viajantes a decidir QUANDO partir | http://www.whatsitlikeapp.com/
